@@ -15,10 +15,4 @@ Ensures the service can handle multiple profile creation requests simultaneously
 Load tests the feature that adds new girl profiles to the system.
 Validates the system’s scalability and response under concurrent additions.
 
-## 📂 Folder Structure
-**Selp/** → Load test scripts for the Selp project.
 
-## 🚀 How to Run a Test
-Make sure [k6 is installed] 
-then run:
-k6 run <script-name>.js
