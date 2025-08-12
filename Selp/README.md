@@ -1,4 +1,5 @@
-Scripts Overview
+## 📌 Overview
+This k6 script automates the **Various Interaction** in the SELP platform, including:
 1. Selp-Login.js
 Performs load testing on the login functionality of the Selp module.
 Tests user authentication and login API under simulated load conditions.
@@ -12,7 +13,7 @@ Tests the API endpoint responsible for creating lawyer profiles.
 Ensures the service can handle multiple profile creation requests simultaneously.
 
 4. Add-girls.js
-Load tests the feature that adds new girl profiles to the system.
+Load tests the feature that creats new girl profiles to the system.
 Validates the system’s scalability and response under concurrent additions.
 
 
